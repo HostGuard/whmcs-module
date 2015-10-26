@@ -1,0 +1,1 @@
+<iframe src="{$result.url}" width="100%" height="500" frameBorder="0">Your browser is not compatible with iframe.</iframe>
